@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/c26436f9-406b-4d5c-a705-6e568df1457a
  - Also updating character walk speed in level based on a movement-speed attribute.
 
 
-https://github.com/user-attachments/assets/c1ebdd4f-daa2-4538-9ac3-defb68c3fa64
+https://github.com/user-attachments/assets/086370fc-46e2-4558-be63-af96af9ee3aa
 
 
 
@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/c1ebdd4f-daa2-4538-9ac3-defb68c3fa64
  - Implemented using Gameplay Cues with appropriate animation across a multiplayer network.
 
 
-https://github.com/user-attachments/assets/9fe8d972-5ae7-4c79-a142-ad1383f27154
+https://github.com/user-attachments/assets/f2262a3f-d858-4bec-8d70-84b1cc476f1b
 
 
 
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/9fe8d972-5ae7-4c79-a142-ad1383f27154
  - So a player can blink to a target location that was set by local input values, and action will be performed by Server.
 
 
-https://github.com/user-attachments/assets/dd38d66c-5b44-4ead-9b66-c6e878c67e85
+https://github.com/user-attachments/assets/df34e247-2593-45a6-b837-45f820561417
 
 
 
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/dd38d66c-5b44-4ead-9b66-c6e878c67e85
  - Implemented Mana Burn from dota - notice how mana is damaged on melee hit, and when passive is disabled (break effect) mana burn does not happen.
 
 
-https://github.com/user-attachments/assets/14842c1c-5ccb-4f5f-847d-ea23e47ca8cb
+https://github.com/user-attachments/assets/b6938b01-62c1-40f6-9902-f67fb207f2fd
 
 
 
@@ -73,5 +73,5 @@ https://github.com/user-attachments/assets/14842c1c-5ccb-4f5f-847d-ea23e47ca8cb
  - Stacking an effect that overflows to perform another effect.
 
 
-https://github.com/user-attachments/assets/8acdbf50-2a8c-4f4c-8ce9-20ff3dec86af
+https://github.com/user-attachments/assets/959b067e-f186-46fc-b9a8-dcfcab85dc16
 
