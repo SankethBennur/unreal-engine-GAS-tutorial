@@ -8,7 +8,7 @@
  - Attribute widgets appear on HUD dynamically, when a pawn is possessed by player.
 
 
-https://github.com/user-attachments/assets/97462568-3de3-4c74-b1bc-3c20fb825ff6
+https://github.com/user-attachments/assets/37a4526d-9b6d-4cb0-b7d9-711f8a8db142
 
 
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/97462568-3de3-4c74-b1bc-3c20fb825ff6
  - Blocking damages stamina, while parrying returns damage to source' stamina.
 
 
-https://github.com/user-attachments/assets/f3980443-6143-4d4a-ae03-8c9528659ff6
+https://github.com/user-attachments/assets/c26436f9-406b-4d5c-a705-6e568df1457a
 
 
 
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/f3980443-6143-4d4a-ae03-8c9528659ff6
  - Also updating character walk speed in level based on a movement-speed attribute.
 
 
-https://github.com/user-attachments/assets/254e26b7-8532-40c7-8d60-53f63569b76a
+https://github.com/user-attachments/assets/c1ebdd4f-daa2-4538-9ac3-defb68c3fa64
 
 
 
@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/254e26b7-8532-40c7-8d60-53f63569b76a
  - Implemented using Gameplay Cues with appropriate animation across a multiplayer network.
 
 
-https://github.com/user-attachments/assets/01c77926-2131-48ae-b2cb-54df70d9af68
+https://github.com/user-attachments/assets/9fe8d972-5ae7-4c79-a142-ad1383f27154
 
 
 
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/01c77926-2131-48ae-b2cb-54df70d9af68
  - So a player can blink to a target location that was set by local input values, and action will be performed by Server.
 
 
-https://github.com/user-attachments/assets/b2742f91-8cb3-4dec-b518-475e3fe29ee5
+https://github.com/user-attachments/assets/dd38d66c-5b44-4ead-9b66-c6e878c67e85
 
 
 
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/b2742f91-8cb3-4dec-b518-475e3fe29ee5
  - Implemented Mana Burn from dota - notice how mana is damaged on melee hit, and when passive is disabled (break effect) mana burn does not happen.
 
 
-https://github.com/user-attachments/assets/90587df1-83e8-4d04-a92a-78c99d460d62
+https://github.com/user-attachments/assets/14842c1c-5ccb-4f5f-847d-ea23e47ca8cb
 
 
 
@@ -73,5 +73,5 @@ https://github.com/user-attachments/assets/90587df1-83e8-4d04-a92a-78c99d460d62
  - Stacking an effect that overflows to perform another effect.
 
 
-https://github.com/user-attachments/assets/dd38e293-000c-4e82-a0fa-76157419eac6
+https://github.com/user-attachments/assets/8acdbf50-2a8c-4f4c-8ce9-20ff3dec86af
 
